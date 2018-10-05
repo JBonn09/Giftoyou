@@ -1,0 +1,117 @@
+.fa-gift {
+    font-size: 40px;
+    color: yellow;
+}
+
+
+
+.BostonCeltics {
+    font-family: cursive;
+    flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: 20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    
+  }
+  
+  .BostonCeltics:hover {background-color: #3e8e41}
+  
+  #BostonCeltics:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .kakashi {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: 20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color:black;
+    background-color: orange;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+   
+    
+  }
+  
+  .kakashi:hover {background-color:orange}
+  
+  .kakashi:active {
+    background-color:orange;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .papyrus {
+    flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: 20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    font-family: fantasy;
+    
+  }
+  
+  .papyrus:hover {background-color:blue}
+  
+  .papyrus:active {
+    background-color:blue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .yoda {
+    flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: 20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: black;
+    background-color:red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+   
+    
+  }
+  
+  .yoda:hover {background-color:red}
+  
+  .yoda:active {
+    background-color:red;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+
